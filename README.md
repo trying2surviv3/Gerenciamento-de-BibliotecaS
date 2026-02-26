@@ -1,4 +1,4 @@
-# Gerenciamento-de-BibliotecaS
+# Gerenciamento-de-Biblioteca
 
 ## 👥 Equipe
 * Alef David Queiroz
