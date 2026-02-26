@@ -1,4 +1,5 @@
 # Gerenciamento-de-Biblioteca
+Este projeto tem como objetivo demonstrar como seria um gerenciamento de biblioteca.
 
 ## 👥 Equipe
 * Alef David Queiroz
@@ -8,5 +9,5 @@
 * Iann Ferreira
 * João Henrique
 
-## 📖 Descrição
-Este projeto tem como objetivo demonstrar como seria um gerenciamento de biblioteca.
+## 📖 1.1 Script
+No arquivo `database` é onde está o comando de criação do nosso banco de dados
