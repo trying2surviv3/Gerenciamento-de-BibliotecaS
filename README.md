@@ -4,7 +4,7 @@
 * Alef David Queiroz
 * Breno Matos
 * Gabriel Oliveira
-* Geraldo oliveira
+* Geraldo Oliveira
 * Iann Ferreira
 * João Henrique
 
