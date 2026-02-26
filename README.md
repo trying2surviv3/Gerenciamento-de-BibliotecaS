@@ -9,4 +9,4 @@
 * João Henrique
 
 ## 📖 Descrição
-Este projeto é um gerenciamento de biblioteca
+Este projeto tem como objetivo demonstrar como seria um gerenciamento de biblioteca.
