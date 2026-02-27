@@ -43,4 +43,3 @@ CREATE TABLE fines (
   updated_at TIMESTAMP
 );
 
-#teste erro pull request
