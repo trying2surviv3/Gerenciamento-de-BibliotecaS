@@ -1,0 +1,9 @@
+CREATE TABLE publishers (
+  id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
+  name VARCHAR(150) NOT NULL,
+  phone VARCHAR(30),
+  email VARCHAR(150),
+  website VARCHAR(200),
+  created_at TIMESTAMP,
+  updated_at TIMESTAMP
+);
